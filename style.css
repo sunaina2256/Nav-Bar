@@ -1,0 +1,122 @@
+*{
+    margin: 0px;
+    color: white;
+}
+.navbar{
+    background-color: black;
+    height: 65px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+
+}
+.logo{
+    height: 62px;
+    width: 97px;
+    background-image: url(../ibm.webp);
+    background-size: cover;
+    margin-bottom: 20px;
+}
+.Home{
+    display: flex;
+}
+.contact{
+    display: flex;
+}
+.banner{
+    height: 900px;
+    background-color: rgb(150, 223, 223);
+    
+}
+h2{
+    text-align: center;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 900px;
+    padding: 20px;
+    font-weight: bolder;
+}
+
+.container {
+    display: flex;
+    align-items: center; 
+    justify-content: flex-start; 
+  }
+
+.ibm2{
+    width: 90px;
+    height: 60px;
+    background-image: url(../ibm.webp);
+    background-size: cover;
+    background-color: black;
+    margin-left: 450px;
+    
+}
+.d{
+    background-color: rgb(79, 223, 79);
+    height: 60px;
+    width: 90px;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+   padding-top: 5px;
+   margin-left: -5px;
+   
+    
+   
+   
+}
+.p1{
+    color: black;
+    text-align: center;
+    
+}
+.p2{
+        color: black;
+    text-align: center;
+    
+
+}
+.p3{
+    color: black;
+    text-align: center;
+}
+.p4{
+    color: black;
+    text-align: center;
+}
+.e{
+    width: 160px;
+    height: 160px;
+    border-radius: 50%;
+    background-image: url(r.jpg);
+    background-size: cover;
+    margin-bottom: 100px;
+}
+.p5{
+    color: black;
+   
+}
+.p6{
+        color: black;
+   
+
+}
+.p7{
+    color: black;
+} 
+.p8{
+    color: black;
+   
+}
+.pp{
+    color: black;
+    text-align: right;
+    display: flex;
+justify-content: right;
+}
+h3{
+    
+    color: black;
+    margin-left: 1000px;
+}
